@@ -1,0 +1,8 @@
+Position title: Data Scientist Engineer
+
+Company: Team Remotely Inc
+
+
+        This is a remote position. Data Scientist Engineer (1 year experience, remote)Be part of our future! This job posting builds our talent pool for potential future openings. We'll compare your skills and experience against both current and future needs. If there's a match, we'll contact you directly. No guarantee of immediate placement, and we only consider applications from US/Canada residents during the application process. Hiring Type: Full-Time Base Salary: $62K-$72K Per Annum.Skills and Abilities:Strong knowledge of R or Python for data analysis and modeling. Proficiency in statistical programs such as R, SAS, MATLAB, or Python. Familiarity with spreadsheets (VBA) and database applications (Access, Oracle, SQL, or equivalent technology). Basic understanding of SQL, Javascript, XML, JSON, and HTML. Ability to learn new methods quickly and work under deadlines. Excellent teamwork and communication skills. Strong analytical and problem-solving abilities. Basic understanding of SQL, Javascript, XML, JSON, and HTML. Preferred:Knowledge of actuarial concepts and life, health, and/or annuity products. Experience with statistical modeling techniques such as GLM, Decision Trees, Time Series, Regression, etc. Familiarity with Microsoft DeployR. Exposure to insurance risk analysis. Basic experience in computational finance, econometrics, statistics, and math. Knowledge of SQL and VBA. Familiarity with R or Python for predictive modeling
+
+Job URL: https://www.linkedin.com/jobs/view/data-scientist-engineer-at-team-remotely-inc-3817709473?refId=PRh1GwTMkcVG1kf6Cb55cQ%3D%3D&trackingId=cw1otoKm7yWufi7AQIRnAA%3D%3D&position=16&pageNum=3&trk=public_jobs_jserp-result_search-card

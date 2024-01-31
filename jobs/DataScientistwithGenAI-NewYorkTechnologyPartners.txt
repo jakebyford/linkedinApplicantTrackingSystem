@@ -1,0 +1,8 @@
+Position title: Data Scientist with Gen AI
+
+Company: New York Technology Partners
+
+
+Role: Data Scientist with Gen AIDuration: Long Term Contract Location: Malvern PA or Charlotte NC Core skills:· Strong Python skills including libraries like LangChain, LangIndex, PyTorch, SageMaker SDK, psycopg2· Experience with Docker and AWS ECR Strong AWS experience with with the following services: · Bedrock· SageMaker· IAM· Glue· S3· Lambda· CodeCommit and CodePipeline· Experience creating quick apps using Streamlit, NodeJS, or some other app framework· Education and or experience in developing NLP models for text classification, completion, summarization, generation· Experience using embeddings models to create vector embeddings and working with vector databases· Understanding of RAG architecture, retrieval optimization, and tradeoffs of splitting methods· Familiarity with benchmarks for model evaluation and methods of determining vector similarity· Experience with scaling ML training workloads using distributed training techniques on GPU and/or developing microservices for AI/ML/GenAI products Data Pre-processing and Analysis: · Work with large-scale datasets, pre-process the data, and perform in-depth analysis to derive meaningful insights, patterns, and trends for AI model training. Preferred candidates will have:· Real world experience fine-tuning models, methods of fine-tuning, and data preprocessing for fine-tuning· AWS Solutions Architect and or AWS Machine Learning Specialty certifications
+
+Job URL: https://www.linkedin.com/jobs/view/data-scientist-with-gen-ai-at-new-york-technology-partners-3804552373?refId=sv6oMmu6iE75R%2Fh2fE4h6Q%3D%3D&trackingId=FYjTgDzuSfRjriFlXqvKnA%3D%3D&position=22&pageNum=5&trk=public_jobs_jserp-result_search-card

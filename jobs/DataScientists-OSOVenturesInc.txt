@@ -1,0 +1,8 @@
+Position title: Data Scientists
+
+Company: OSO Ventures Inc
+
+
+We are urgently hiring for Data Scientists at Remote.If you are interested in position please share your updated resume on ankita@osoventuresinc.com and contact me on (262)525-5173.Data ScientistsLocation: USA.Exp:10+ years.Skills: Healthcare, Google Cloud, R, Python, Advanced SQL, Tableau, Looker, Data Flow, Big Query, WorkbenchJob DescriptionShould have good hands-on experience with Python and oop's concepts Good experience in building ML algorithms and techniques like Feature Extraction, Feature Engineering, Ensembling and parameter tuning Expertise in Exploratory Data Analysis to infer meaningful insights from Data. Passionate about applying emerging DL frameworks to solve business and like working in dynamic and fast paced environment. Exposure to data engineering tasks to extract data from databases and orchestrate these. Experience on Visualization tools like Tableau or Data studio. Should have used GPUs to accelerate data preparation and machine learning activities. Should be able to showcase the built application using web framework such as Flask, FastApi. Containerizing the solution using Docker. Deployment experience is required.  Must be able to build architectural and design related ideas.
+
+Job URL: https://www.linkedin.com/jobs/view/data-scientists-at-oso-ventures-inc-3816921628?refId=PRh1GwTMkcVG1kf6Cb55cQ%3D%3D&trackingId=rZJyuhONL8OiOy1sO1OxGA%3D%3D&position=2&pageNum=3&trk=public_jobs_jserp-result_search-card

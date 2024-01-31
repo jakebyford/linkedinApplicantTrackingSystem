@@ -1,0 +1,8 @@
+Position title: Data Scientist
+
+Company: Adecco
+
+
+Data Scientist (Hybrid)Our client in the Chicago Loop is looking to add a versatile Data Scientist to their team!The ideal candidate is driven by a passion for continuous learning, with a profound appreciation for the power of data at scale. Your expertise in collaboration is a key asset, complemented by your ability to navigate intricate data sets and unearth meaningful insights. Engage in the thrill of asking precise questions and unraveling intricate answers, showcasing your agility in the dynamic world of data science. ResponsibilitiesAnalyze raw data: assessing quality, cleansing, structuring for downstream processingDesign accurate and scalable prediction algorithmsCollaborate with engineering team to bring analytical prototypes to productionGenerate actionable insights for business improvementsQualificationsBachelor's degree or equivalent experience in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc.)At least 1 - 2 years' of experience in quantitative analytics or data modelingDeep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithmsFluency in a programming language (Python, C,C++, Java, SQL)Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)
+
+Job URL: https://www.linkedin.com/jobs/view/data-scientist-at-adecco-3801630319?refId=tAdOVCJzJXY%2BCD6UaT8ivA%3D%3D&trackingId=F9J7Cj5GUkMXbPY5F%2FuSJw%3D%3D&position=6&pageNum=1&trk=public_jobs_jserp-result_search-card

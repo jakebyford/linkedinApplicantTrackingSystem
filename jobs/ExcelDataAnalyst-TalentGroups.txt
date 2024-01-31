@@ -1,0 +1,8 @@
+Position title: Excel Data Analyst
+
+Company: Talent Groups
+
+
+Job DescriptionGrowing healthcare supply chain organization is looking for an experienced Excel/SQL Data Analyst that has experience with Power BI for data and dashboard visualization. This Senior Analyst is to complete both recruitment and implementation analytic activities as well as other supporting analytic functions as needed. Recruitment and implementation analytic activities include analyzing spend data to identify contract opportunities during the sales cycle and during the implementation phase.Duties include creating advanced Excel (Nested Formulas, xlookups, vlookups), use SQL, Power BI for data visualization.
+
+Job URL: https://www.linkedin.com/jobs/view/excel-data-analyst-at-talent-groups-3803247739?refId=WZ02pfiV0rrAEaw19mP%2FSA%3D%3D&trackingId=2N1WNW2vQpdAmWNwaBLMdQ%3D%3D&position=18&pageNum=4&trk=public_jobs_jserp-result_search-card
