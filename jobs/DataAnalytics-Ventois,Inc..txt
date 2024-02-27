@@ -1,8 +1,0 @@
-Position title: Data Analytics
-
-Company: Ventois, Inc.
-
-
-        Ventois, Inc has openings for the position Data Analytics with Master’s degree in Computer Science, Engineering any, Technology, Analytics or related to coordinate with developers to build and implement technology solutions. Install and configure hardware and software components. Build dashboards using Qlik Sense and Involve in design, develop, test and support QlikView & Qlik Sense applications. Extract the data from various data sources such as databases, CSV files, and Excel documents transforming the data into standard format (QVDs).Work location is Shrewsbury, MA with required travel to client locations throughout the USA. Please mail resumes to 382 Boston Tpke, Suite 201, Shrewsbury, MA 01545 (or) e-mail: careers@ventois.com
-      
-Job URL: https://www.linkedin.com/jobs/view/data-analytics-at-ventois-inc-3818024937?refId=dUCpBILZIlCgy%2BAW4GhPnQ%3D%3D&trackingId=AXJ78Dr8Gy5%2Bf4DLl4Qsag%3D%3D&position=15&pageNum=6&trk=public_jobs_jserp-result_search-card

@@ -1,8 +1,0 @@
-Position title: Data Scientist
-
-Company: Millennium Group
-
-
-        We are seeking Data Scientists for a client in San Antonio.Job DutiesUse Python in Jupyter Notebook to process data and develop predictive models on the daily basis.Use SQL or Python to extract the modeling data from snowflake data server.Work closely with other data scientists and actuaries in the modernization modeling team.Develop pricing and underwriting models to support insurance teams.Required Experience3-5 years of Machine Learning3-5 years of Statistical Modeling3-5 years with Actuarial AnalyticsPythonJupyter NotebookSnowflake
-      
-Job URL: https://www.linkedin.com/jobs/view/data-scientist-at-millennium-group-3813190252?refId=tAdOVCJzJXY%2BCD6UaT8ivA%3D%3D&trackingId=qQyIG1srmjn%2FuHnoMLRS7A%3D%3D&position=20&pageNum=1&trk=public_jobs_jserp-result_search-card

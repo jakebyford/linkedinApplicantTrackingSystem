@@ -1,8 +1,0 @@
-Position title: Data Analyst
-
-Company: Northbound Executive Search
-
-
-A major alternative asset manager with a global presence is actively seeking a Data Analyst to join one of the most successful private equity funds. With approximately $100 billion in assets under management (AUM), this organization operates on a global scale. Our client is seeking a Data Analyst who will play a pivotal role in utilizing data insights to enhance their decision-making processes. This is an opportunity to work across the company’s various teams including the investment team to build out their data foundation. You will be working on a small team where your voice will be heard!Qualifications and Responsibilities:• Bachelor’s degree in Computer Science, Data, or a related field.• 1-3 years of proven experience as a Data Analyst, preferably in the financial or asset management industry.• Data collection and processing, data analysis, reporting, visualization, collaboration, and ad hoc analysis.• Excellent communication skills to convey complex findings to non-technical stakeholders.• Proficiency in data analysis tools and languages such as Python, R, and SQL.• Hands on experience with data visualization tools such as Tableau and Power BI.• Must have a strong sense of curiosity and a passion for analyzing complex datasets within the alternative asset management space.• Familiarity with alternative asset management or financial data is a plus.• Excellent communication skills to convey complex findings to non-technical stakeholders.
-
-Job URL: https://www.linkedin.com/jobs/view/data-analyst-at-northbound-executive-search-3808588923?refId=sv6oMmu6iE75R%2Fh2fE4h6Q%3D%3D&trackingId=L6a%2FySMVvg0ACRPfB78Y0Q%3D%3D&position=4&pageNum=5&trk=public_jobs_jserp-result_search-card

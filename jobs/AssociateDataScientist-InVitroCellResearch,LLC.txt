@@ -1,8 +1,0 @@
-Position title: Associate Data Scientist
-
-Company: InVitro Cell Research, LLC
-
-
-ICR is hiring Associate Data Scientists to work with our Translational Bioinformatics Team. We're applying data analytics and cutting-edge machine learning to multi-omic human disease datasets to find diagnostic signatures and actionable targets for drug development. Because you will be working with biomedical datasets, a background in biomedical sciences is required. These are three-year, fixed-term positions.Please notice that this is not a financial-sector job, thanks.With ICR, you'll get to:Apply cutting-edge data analysis and machine learning techniques to help diagnose and treat rare and hard-to-diagnose diseasesBe part of a team working to improve the lives of millions of peopleUse your creativity to solve challenging problemsPlease apply if you have:A recent BS or MS degreeOutstanding programming skills (R and Python fluency preferred)Deep knowledge of predictive modeling and probability statisticsAn understanding of the difference between predicting observables versus estimating parametersA practical and theoretical understanding of "scoring rules"The ability to work in the United States without sponsorshipA can-do attitude and a friendly, easygoing personalityPosition title and compensation are commensurate with experience.The compensation ranges listed below are starting ranges.Starting base pay range: $60,000/yr - $95,000/yrStarting bonus range: $3,000/yr - $12,000/yr
-
-Job URL: https://www.linkedin.com/jobs/view/associate-data-scientist-at-invitro-cell-research-llc-3805480129?refId=tAdOVCJzJXY%2BCD6UaT8ivA%3D%3D&trackingId=VwcYweZHh%2B48rTMx6uFrgA%3D%3D&position=11&pageNum=1&trk=public_jobs_jserp-result_search-card

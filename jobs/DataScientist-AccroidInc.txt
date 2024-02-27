@@ -1,8 +1,0 @@
-Position title: Data Scientist
-
-Company: Accroid Inc
-
-
-        12+ MonthsLocal consultant to IAExperience in using Python for analysis, including the use of common libraries (pandas, numpy, scipy, matplotlib, seaborn, etc.), creating and sharing jupyter notebooks, and building reusable functions and scripts. Experience leveraging various statistical tools to test hypotheses or generate distributions based on observational data to quantify uncertainty and confidence. Fluency in using SQL for common data access, transformations, and aggregations.
-
-Job URL: https://www.linkedin.com/jobs/view/data-scientist-at-accroid-inc-3808538154?refId=fCEr%2BP%2BqDX3zYSjvUR6OMg%3D%3D&trackingId=qkU5zjd1kTFDGX%2BiEifnFA%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card

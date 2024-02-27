@@ -1,8 +1,0 @@
-Position title: Data Analyst
-
-Company: Cypress HCM
-
-
-We have an exciting opportunity for a Data Analyst 3 with the top leading multimedia and creative software company in the world. Responsibilities:Partner with product and business teams to understand requirements and KPIs.Support regular ad-hoc data querying and in-depth analyses to better understand customer behavior.Support teams in running growth programs and A/b tests through analyzing results and communicating insights.Conduct exploratory data analysis to answer business questions that help inform decision-making.Slice and dice data sets through various dimensions to generate meaningful reports, insights and diagnostics.Skills and Experience:Bachelors in Computer Science or relevant field.Strong SQL skills and experience working on Hive/Hadoop/Cloud.Basic understanding of statistics, and prior experience with A/b testing preferred4+ years of prior experience in similar BI & Analytics roles.Experience working with Tableau and building dashboards for reporting.Good communication skills - ability to communicate business insights from data to stakeholders effectively.Compensation:$48.59 to $64.79 per hour.
-
-Job URL: https://www.linkedin.com/jobs/view/data-analyst-at-cypress-hcm-3798156125?refId=PRh1GwTMkcVG1kf6Cb55cQ%3D%3D&trackingId=ouF3TjCVMHMGNziFudyh%2FQ%3D%3D&position=7&pageNum=3&trk=public_jobs_jserp-result_search-card

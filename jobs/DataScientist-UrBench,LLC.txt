@@ -1,8 +1,0 @@
-Position title: Data Scientist
-
-Company: UrBench, LLC
-
-
-Title: Data ScientistLocation: New York City, NY, United States – (On-site 3 days in New York City at Customer Office)Job Type: Contract Proficiency in data science programming language Python Experience working with R is a plus Development Skills Ability to collect data from multiple data sources, merge and ensure consistency Ability to analyze large amounts of data Strong SQL development skills:Deep understanding of all types of joinsQuery OptimizationsViews & IndexingNested Queries Strong Excel skills:Pivot tablesVLOOKUP Be able to create reports and presentations for business users Develop and deploy applications that utilize data Bachelor's degree in Data ScienceA Masters Degree in Data Science is preferred but not required.
-
-Job URL: https://www.linkedin.com/jobs/view/data-scientist-at-urbench-llc-3799082462?refId=fCEr%2BP%2BqDX3zYSjvUR6OMg%3D%3D&trackingId=NEhcVvDSdoTubJzfgojXMA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card

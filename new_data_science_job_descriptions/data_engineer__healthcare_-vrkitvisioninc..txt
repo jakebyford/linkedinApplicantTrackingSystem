@@ -1,0 +1,1 @@
+ Should have worked on NF-Core, AirFlow, Nextflow  Should be able to create data management pipeline in Airflow  Should have good working knowledge of AWS (AWS Glue, AWS Omics, AWS Batch, Athena, EMR Serverless)
