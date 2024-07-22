@@ -222,7 +222,7 @@ def main():
     sorted_similarity_scores = sorted(
         similarity_scores.items(), key=lambda x: x[1]['score'], reverse=True)
 
-    for company, data in sorted_similarity_scores[:20]:
+    for company, data in sorted_similarity_scores[:10]:
         score = data['score']
         jd_top_words = data['jd_top_words']
         my_top_words = data['my_top_words']
