@@ -1,1 +1,0 @@
-Should have domain knowledge of Genomics, bioinformatics and life sciences Should be able to create Spark , EMR jobs Should have worked on NF-Core, AirFlow, Nextflow
