@@ -55,6 +55,8 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
+Watch for this: ```ERROR: Ignored the following versions that require a different python version```
+May need to pip install some dependencies separately if not using python 3.9
 
 4. Set up configuration:
 - Create a `config.py` file with your `my_path` for job descriptions
