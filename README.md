@@ -70,7 +70,7 @@ python linkedin_job_scraper.py
 
 2. **Resume Optimization**:
 ```bash
-python new-cleaned-ats-script.py
+python ats-script.py
 # Select your resume file when prompted
 ```
 
@@ -78,7 +78,7 @@ python new-cleaned-ats-script.py
 
 1. **Job Discovery**
    - Scrape LinkedIn jobs based on user-specified job title and location
-   - Save job descriptions as individual text files
+   - Save job descriptions as individual text files in directory
 
 2. **Resume Analysis**
    - Extract and preprocess resume text
@@ -94,7 +94,7 @@ python new-cleaned-ats-script.py
 
 - **TF-IDF Similarity**: Traditional keyword-based matching
 - **Sentence-BERT Similarity**: Advanced semantic understanding
-- Scores mapped to 50-100% range for easy interpretation
+- Scores mapped to 0-100% range for easy interpretation
 
 ## 🛡 Limitations
 
@@ -111,7 +111,7 @@ Contributions are welcome! Please:
 
 ## 📄 License
 
-Nothing yet...
+N/A yet...
 
 ## 🙌 Acknowledgments
 
