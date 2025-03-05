@@ -41,7 +41,7 @@ This advanced AI-powered tool helps job seekers optimize their resumes, find the
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/resume-optimizer.git
+git clone https://github.com/jakebyford/resume-optimizer.git
 cd resume-optimizer
 ```
 
