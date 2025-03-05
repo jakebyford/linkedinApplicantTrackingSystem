@@ -1,2 +1,45 @@
-config.py
+# Python virtual environment
+venv/
+*.venv
+.venv/
 
+# Data folders
+new_data_science_job_descriptions/
+nj_data_science_job_descriptions/
+temp_data_science_job_descriptions/
+templates/
+uploads/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env
+
+# Specific project files
+app.py
+ats.py
+cleaned-ats-script.py
+config.py
+linkedin_web_crawler.ipynb
+test.py
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
