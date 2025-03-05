@@ -372,17 +372,17 @@ def main():
         print(f"JOB: {company}")
         print(f"MATCH SCORE: {sbert_score}%")
         
-        print("\n🔍 MISSING KEYWORDS:")
+        print("\n MISSING KEYWORDS:")
         if missing_keywords:
             print(", ".join(missing_keywords))
         else:
-            print("✅ No critical keywords missing!")
+            print("No critical keywords missing!")
         
-        print("\n🚀 AI-SUGGESTED RESUME IMPROVEMENTS:")
+        print("\nAI-SUGGESTED RESUME IMPROVEMENTS:")
         for bullet in improved_bullets:
             print(f"- {bullet}")
         
-        print("\n📄 AI-GENERATED COVER LETTER:")
+        print("\nAI-GENERATED COVER LETTER:")
         print(cover_letter)
         print("="*50)
 
